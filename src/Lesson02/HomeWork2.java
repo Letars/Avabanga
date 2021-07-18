@@ -3,18 +3,19 @@ package Lesson02;
 public class HomeWork2 {
     public static void main(String[] args) {
 
+        System.out.println("_______Task1________");
         System.out.println(method1(11, 1));
         System.out.println(method1(11, 12));
-        System.out.println("__________________________");
 
+        System.out.println("_______Task2________");
         method2(12);
         method2(-9);
-        System.out.println("__________________________");
 
+        System.out.println("_______Task3________");
         System.out.println(method3(92));
         System.out.println(method3(-8));
-        System.out.println("__________________________");
-
+        
+        System.out.println("_______Task4________");
         method4("Test",4);
     }
 
