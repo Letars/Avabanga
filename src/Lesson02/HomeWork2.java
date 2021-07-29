@@ -14,7 +14,7 @@ public class HomeWork2 {
         System.out.println("_______Task3________");
         System.out.println(method3(92));
         System.out.println(method3(-8));
-        
+
         System.out.println("_______Task4________");
         method4("Test",4);
     }
