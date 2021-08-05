@@ -16,6 +16,7 @@ public class Organization {
         for (int i = 0; i < Employee.length; i++) {
             if (Employee[i].age > 40) {
                     Employee[i].information();
+
             }
         }
     }
